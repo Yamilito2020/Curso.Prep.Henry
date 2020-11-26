@@ -1,0 +1,53 @@
+h1 {
+    color:deeppink ;
+    text-decoration:rgb(102, 10, 223); 
+    text-decoration-color: rgb(226, 71, 9); 
+    font-size:x-large; 
+    border-radius: 0cm; 
+    text-align: center; 
+    background-color: rgb(233, 221, 60);
+}
+h3 {
+    font-style:italic; 
+    font-size:x-large; 
+    border-radius: 0cm; 
+    text-align: center;
+    color: blue;
+}
+h4{
+    font-style:italic; 
+    font-size:x-large; 
+    border-radius: 0cm; 
+    text-align: center; 
+    font-weight: 200;
+    color: blue;
+}
+h2 p {
+    text-align: center; 
+    font-style: oblique; 
+    font-size: 60px; 
+    text-decoration: double; 
+    text-shadow: 100px;
+    border: 5px;
+    border-color: blue;
+    border-top: blue;
+}    
+spam{
+    font-size: 18px;
+    margin: 50px;
+}
+
+div ul li {
+    width:500; 
+    height: 600; 
+    background-color: forestgreen; 
+    padding: 50px; 
+    border: gold; 
+    border-style: groove;
+
+    font-size: 60px;
+}
+img {
+    width: 400;
+}
+

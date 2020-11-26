@@ -1,0 +1,5 @@
+FOR: es un bucle para realizar tareas reptidamente, dentro de su sintaxi encontramos tres elementos claves, que son una variable definida, un parametro que debe cumplirse, hasta que ya no lo haga y se terminara el bucle. 
+Losoperadores logicos nos sirven para pode realizar diferentes tareas con resultados booleanos.
+&& operador logico y
+|| operador logico O
+! operadopr logico negativo
