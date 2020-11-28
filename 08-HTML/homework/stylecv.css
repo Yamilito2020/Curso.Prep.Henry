@@ -1,0 +1,36 @@
+html{
+    background-color: royalblue;
+    flex-direction: column;
+    flex: center;
+    align-items: center;
+}
+head title{
+    font-weight: bolder; 
+    text-justify: auto; 
+    align-items: center; 
+    background-color: cadetblue;
+}
+div h1{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    background-color: aqua; 
+}
+div a{
+    font-size: 25px;
+    color: black;
+    text-align: justify;
+    font-weight: bolder;
+}
+div li img{
+    margin: 0 auto;
+    width:600; 
+    height: 300; 
+    background-color: rgb(14, 223, 101); 
+    padding: 50px; 
+    border: gold; 
+    border-style: groove;
+
+    font-size: 60px;
+}
